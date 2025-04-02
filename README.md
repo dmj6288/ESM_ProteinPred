@@ -14,10 +14,16 @@ Step 5: Visualize divergence on heatmap, UMAP and dendrograms.
 
 Discovered 4 cell type marker genes that have human specific divergence:
 
-SLC17A7 (Excitatory neurons)
+GFAP (Astrocyte)
 
-CDH9 (Inhibitory neurons)
+VIP (Inhibitory neurons)
 
-KIT (Inhibitory neurons)
+TRPM3 (Inhibitory neurons)
 
-CS1FR (Microglia)
+RBFOX3
+
+TLE4
+
+MOG (oligodendrocyte)
+
+MBP (oligodendrocyte)
